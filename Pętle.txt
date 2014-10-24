@@ -1,0 +1,12 @@
+for(wart_pocz;warunek;zmiany)
+{
+}
+
+while(warunek)
+{
+}
+
+do
+{
+}
+while(warunek);
